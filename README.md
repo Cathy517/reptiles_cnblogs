@@ -20,4 +20,4 @@ eventproxy(https://github.com/JacksonTian/eventproxy ) 非常轻量的工具，�
 而 eventproxy 就起到了这个计数器的作用，它来帮你管理到底这些异步操作是否完成，完成之后，它会自动调用你提供的处理函数，并将抓取到的数据当参数传过来。
 
 
-内容保存在 server.js 中，而我们有一个这样的启动页面 index.js，
+内容保存在 server.js 中，启动页面 index.js，
