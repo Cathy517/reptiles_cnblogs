@@ -2,6 +2,7 @@
 爬博客园数据
 
 用到的库，superagent， cheerio， eventproxy，async
+
 superagent
 
 superagent(http://visionmedia.github.io/superagent/ ) 是个轻量的的 http 方面的库，是nodejs里一个非常方便的客户端请求代理模块
